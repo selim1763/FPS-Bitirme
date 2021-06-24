@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75b0e63654cc4612a00704abb5955529, type: 3}
+  m_Name: Gastaroid Quest Data
+  m_EditorClassIdentifier: 
+  headerText: Deadly predator Gastaroid
+  content: Gastaroids are an evolved superhero species of Gastaria, they are very
+    dangerous predators, they can sense living things from far away and move faster
+    than Gastaria. They can drop loot when killed.
+  objectiveText: Kill <color>5</color> Gastaroid
+  questSprite: {fileID: 21300000, guid: af2806c899c25455a89739ae141e61d6, type: 3}
+  rewardSprite: {fileID: 21300000, guid: 0ff681f0d9f4940549cf1d7bbda383b4, type: 3}
+  rewardCoin: 900
+  questObjective: {fileID: 11400000, guid: 9b92c719057864f8e96a62487054fb7e, type: 2}
+  questCompletedText: You did a great job killing the gastaroids, here is your reward
+    as I promised. Come back for the Scarama mission when you're rested. See you

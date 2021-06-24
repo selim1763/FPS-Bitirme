@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39f2be97e62d4ce1836e8d6b3e72044e, type: 3}
+  m_Name: Gastaroid Loot Data
+  m_EditorClassIdentifier: 
+  items:
+  - {fileID: 11400000, guid: 147c87421954144fea32a01e83d95585, type: 2}
+  - {fileID: 11400000, guid: bff86d12ecc72424893846ca11515774, type: 2}

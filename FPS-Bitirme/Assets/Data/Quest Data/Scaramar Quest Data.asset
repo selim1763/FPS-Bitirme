@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75b0e63654cc4612a00704abb5955529, type: 3}
+  m_Name: Scaramar Quest Data
+  m_EditorClassIdentifier: 
+  headerText: Scaramar's are too dangerous to ignore.
+  content: I'm assuming you stumbled upon the Scaramas while hunting for Gastaria.
+    Scaramas are a type of flying fly that have evolved like Gastarias, they are
+    very poisonous and must be eliminated.
+  objectiveText: Kill <color>9</color> Scarama
+  questSprite: {fileID: 21300000, guid: 5cd93fcd8de4946799e9a01e77376dc7, type: 3}
+  rewardSprite: {fileID: 0}
+  rewardCoin: 3500
+  questObjective: {fileID: 11400000, guid: cd19b431cce054433b40878324ce1e55, type: 2}
+  questCompletedText: You did a great job taking care of the scaramas. Thanks to
+    you, we can control those annoying creatures more easily. As I promised, your
+    gift is here, enjoy it.
